@@ -1,4 +1,4 @@
-GroundStudio Jade Uno
+GroundStudio Jade U1
 ====================================
 ![JadeU1](https://github.com/GroundStudio/Jade_U1/assets/77836107/49564e54-6871-4f1a-a305-aa3e0efdfbfd)
 
